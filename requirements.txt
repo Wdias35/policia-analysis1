@@ -1,6 +1,7 @@
 streamlit
 pandas
-fitz  # ou pymupdf
 plotly
 folium
 streamlit-folium
+PyMuPDF
+
